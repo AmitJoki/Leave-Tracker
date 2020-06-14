@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "668696597520",
+    "firebase_url": "https://leave-tracker-da96d.firebaseio.com",
+    "project_id": "leave-tracker-da96d",
+    "storage_bucket": "leave-tracker-da96d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:668696597520:android:f5daaff020e39aa6a6a695",
+        "android_client_info": {
+          "package_name": "com.example.leave_tracker"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "668696597520-la5eu7e2887ms6ih3d7rm84381nb54qs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIJkdsnCO8nVkkjV-YYAbgEkGUK2D0pV4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "668696597520-la5eu7e2887ms6ih3d7rm84381nb54qs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
